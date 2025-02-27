@@ -34,7 +34,6 @@ public class WeatherClient {
                 throw new ServerException("날씨 데이터가 없습니다.");
             }
 
-
         String today = getCurrentDate();
 
         for (WeatherDto weatherDto : weatherArray) {
