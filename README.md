@@ -6,9 +6,11 @@
 ![img.png](Img/img.png)
 
 **커버리지 확인**
+
 ![img.png](Img/img12.png)
 
 **실제 커버 여부**
+
 ![img_2.png](Img/img14.png)
 ![img_1.png](Img/img13.png)
 
@@ -17,9 +19,11 @@
 ![img_3.png](Img/img_3.png)
 
 **커버리지 확인**
+
 ![img_4.png](Img/img_4.png)
 
 **실제 커버 여부**
+
 ![img_5.png](Img/img_5.png)
 
 ->100% 실행. 테스트 코드 문제 없음.
@@ -34,6 +38,7 @@
 ![img_7.png](Img/img_7.png)v
 
 **실제 커버 여부**
+
 ![img_8.png](Img/img_8.png)
 
 ->  CommentService의 save는 잘 테스트 됐지만,
@@ -48,9 +53,11 @@ getComment를 실행하는 테스트 코드 추가 필요.
 ![img_9.png](Img/img_9.png)
 
 **커버리지 확인**
+
 ![img_10.png](Img/img_10.png)
 
 **실제 커버 여부**
+
 ![img_11.png](Img/img_11.png)
 
 -> manager 생성 기능은 테스트 코드가 있지만 에러가 발생하고,
